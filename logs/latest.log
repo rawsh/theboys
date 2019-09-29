@@ -1,0 +1,190 @@
+[17:44:54] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[17:44:54] [Server thread/INFO]: Loading properties
+[17:44:54] [Server thread/INFO]: This server is running Paper version git-Paper-187 (MC: 1.14.4) (Implementing API version 1.14.4-R0.1-SNAPSHOT)
+[17:44:54] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:44:54] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:44:54] [Server thread/INFO]: Debug logging is disabled
+[17:44:54] [Server thread/INFO]: Default game type: SURVIVAL
+[17:44:54] [Server thread/INFO]: Generating keypair
+[17:44:54] [Server thread/INFO]: Starting Minecraft server on 192.168.1.102:25565
+[17:44:54] [Server thread/INFO]: Using epoll channel type
+[17:44:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:44:55] [Server thread/INFO]: Preparing level "world"
+[17:44:55] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[17:44:56] [Server thread/INFO]: Loaded 6 recipes
+[17:44:56] [Server thread/INFO]: -------- World Settings For [world] --------
+[17:44:56] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:44:56] [Server thread/INFO]: Mob Spawn Range: 8
+[17:44:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:44:56] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:44:56] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:44:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:44:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:44:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:44:56] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[17:44:56] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[17:44:56] [Server thread/INFO]: Potato Growth Modifier: 100%
+[17:44:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:44:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:44:56] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:44:56] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:44:56] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[17:44:56] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[17:44:56] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[17:44:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[17:44:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:44:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:44:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[17:44:56] [Server thread/INFO]: Max TNT Explosions: 100
+[17:44:56] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:44:56] [Server thread/INFO]: View Distance: 10
+[17:44:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:44:56] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:44:56] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:44:56] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:44:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:44:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:44:57] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[17:44:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:44:57] [Server thread/INFO]: Mob Spawn Range: 8
+[17:44:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:44:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:44:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:44:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:44:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:44:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:44:57] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[17:44:57] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[17:44:57] [Server thread/INFO]: Potato Growth Modifier: 100%
+[17:44:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:44:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:44:57] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:44:57] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:44:57] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[17:44:57] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[17:44:57] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[17:44:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[17:44:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:44:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:44:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[17:44:57] [Server thread/INFO]: Max TNT Explosions: 100
+[17:44:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:44:57] [Server thread/INFO]: View Distance: 10
+[17:44:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:44:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:44:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:44:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:44:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:44:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:44:57] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[17:44:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:44:57] [Server thread/INFO]: Mob Spawn Range: 8
+[17:44:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:44:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:44:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:44:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:44:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:44:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:44:57] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[17:44:57] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[17:44:57] [Server thread/INFO]: Potato Growth Modifier: 100%
+[17:44:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:44:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:44:57] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:44:57] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:44:57] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[17:44:57] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[17:44:57] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[17:44:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[17:44:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:44:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:44:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[17:44:57] [Server thread/INFO]: Max TNT Explosions: 100
+[17:44:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:44:57] [Server thread/INFO]: View Distance: 10
+[17:44:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:44:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:44:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:44:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:44:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:44:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:44:57] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[17:44:57] [Server thread/INFO]: Preparing spawn area: 0%
+[17:44:58] [Server thread/INFO]: Preparing spawn area: 0%
+[17:44:58] [Server thread/INFO]: Preparing spawn area: 0%
+[17:45:01] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[17:45:01] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[17:45:01] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[17:45:01] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[17:45:01] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[17:45:01] [Server thread/INFO]: Preparing spawn area: 0%
+[17:45:02] [Server thread/INFO]: Preparing spawn area: 72%
+[17:45:02] [Server thread/INFO]: Loaded 441 spawn chunks for world world
+[17:45:02] [Server thread/INFO]: Time elapsed: 4637 ms
+[17:45:02] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[17:45:02] [Server thread/INFO]: Preparing spawn area: 0%
+[17:45:02] [Server-Worker-3/INFO]: Preparing spawn area: 100%
+[17:45:03] [Server-Worker-2/INFO]: Preparing spawn area: 100%
+[17:45:03] [Server-Worker-5/INFO]: Preparing spawn area: 100%
+[17:45:04] [Server-Worker-3/INFO]: Preparing spawn area: 100%
+[17:45:04] [Server thread/INFO]: Loaded 441 spawn chunks for world world_nether
+[17:45:04] [Server thread/INFO]: Time elapsed: 2280 ms
+[17:45:04] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[17:45:04] [Server thread/INFO]: Preparing spawn area: 0%
+[17:45:04] [Server-Worker-3/INFO]: Preparing spawn area: 100%
+[17:45:05] [Server thread/INFO]: Loaded 441 spawn chunks for world world_the_end
+[17:45:05] [Server thread/INFO]: Time elapsed: 758 ms
+[17:45:05] [Server thread/INFO]: Done (10.049s)! For help, type "help"
+[17:45:05] [Server thread/INFO]: Timings Reset
+[17:45:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@5296602a[id=<null>,name=MADACRA,properties={},legacy=false] (/192.168.1.101:50068) lost connection: Disconnected
+[17:46:06] [User Authenticator #1/INFO]: Disconnecting com.mojang.authlib.GameProfile@5296602a[id=<null>,name=MADACRA,properties={},legacy=false] (/192.168.1.101:50068): Authentication servers are down. Please try again later, sorry!
+[17:46:06] [User Authenticator #1/ERROR]: Couldn't verify username because servers are unavailable
+[17:46:07] [User Authenticator #1/INFO]: Disconnecting com.mojang.authlib.GameProfile@54d6b7ae[id=<null>,name=MADACRA,properties={},legacy=false] (/192.168.1.101:50071): Authentication servers are down. Please try again later, sorry!
+[17:46:07] [User Authenticator #1/ERROR]: Couldn't verify username because servers are unavailable
+[17:46:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@54d6b7ae[id=<null>,name=MADACRA,properties={},legacy=false] (/192.168.1.101:50071) lost connection: Authentication servers are down. Please try again later, sorry!
+[17:46:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@192fe037[id=<null>,name=rawsh,properties={},legacy=false] (/192.168.1.102:38154) lost connection: Disconnected
+[17:48:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@a49dc4d[id=<null>,name=rawsh,properties={},legacy=false] (/192.168.1.102:38186) lost connection: Timed out
+[17:48:49] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5d45b901[id=<null>,name=MADACRA,properties={},legacy=false] (/192.168.1.101:50263): Took too long to log in
+[17:48:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@5d45b901[id=<null>,name=MADACRA,properties={},legacy=false] (/192.168.1.101:50263) lost connection: Took too long to log in
+[17:49:00] [User Authenticator #2/INFO]: Disconnecting com.mojang.authlib.GameProfile@5d45b901[id=<null>,name=MADACRA,properties={},legacy=false] (/192.168.1.101:50263): Authentication servers are down. Please try again later, sorry!
+[17:49:00] [User Authenticator #2/ERROR]: Couldn't verify username because servers are unavailable
+[17:49:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@4fafc59e[id=<null>,name=rawsh,properties={},legacy=false] (/192.168.1.102:38190) lost connection: Disconnected
+[17:49:41] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@304db0e8[id=<null>,name=MADACRA,properties={},legacy=false] (/192.168.1.101:50271): Took too long to log in
+[17:49:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@304db0e8[id=<null>,name=MADACRA,properties={},legacy=false] (/192.168.1.101:50271) lost connection: Took too long to log in
+[17:49:51] [User Authenticator #2/INFO]: Disconnecting com.mojang.authlib.GameProfile@304db0e8[id=<null>,name=MADACRA,properties={},legacy=false] (/192.168.1.101:50271): Authentication servers are down. Please try again later, sorry!
+[17:49:51] [User Authenticator #2/ERROR]: Couldn't verify username because servers are unavailable
+[17:50:23] [User Authenticator #2/INFO]: Disconnecting com.mojang.authlib.GameProfile@585d1383[id=<null>,name=MADACRA,properties={},legacy=false] (/192.168.1.101:50276): Authentication servers are down. Please try again later, sorry!
+[17:50:23] [User Authenticator #2/ERROR]: Couldn't verify username because servers are unavailable
+[17:50:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@585d1383[id=<null>,name=MADACRA,properties={},legacy=false] (/192.168.1.101:50276) lost connection: Authentication servers are down. Please try again later, sorry!
+[17:51:06] [User Authenticator #2/INFO]: UUID of player rawsh is 7c1e4ac5-09f5-4764-b005-1b1e7d6c6826
+[17:51:07] [Server thread/INFO]: rawsh[/192.168.1.102:38240] logged in with entity id 215 at ([world]229.23091321773967, 73.16184762755637, -107.69489831735778)
+[17:51:30] [User Authenticator #2/INFO]: Disconnecting com.mojang.authlib.GameProfile@57595d8[id=<null>,name=MADACRA,properties={},legacy=false] (/192.168.1.101:50287): Authentication servers are down. Please try again later, sorry!
+[17:51:30] [User Authenticator #2/ERROR]: Couldn't verify username because servers are unavailable
+[17:51:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@57595d8[id=<null>,name=MADACRA,properties={},legacy=false] (/192.168.1.101:50287) lost connection: Authentication servers are down. Please try again later, sorry!
+[17:54:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@7849a5f6[id=<null>,name=MADACRA,properties={},legacy=false] (/192.168.1.101:50306) lost connection: Disconnected
+[17:54:49] [User Authenticator #3/INFO]: Disconnecting com.mojang.authlib.GameProfile@7849a5f6[id=<null>,name=MADACRA,properties={},legacy=false] (/192.168.1.101:50306): Authentication servers are down. Please try again later, sorry!
+[17:54:49] [User Authenticator #3/ERROR]: Couldn't verify username because servers are unavailable
+[17:57:09] [Server thread/INFO]: rawsh lost connection: Disconnected
+[17:57:09] [Server thread/INFO]: rawsh left the game
+[18:11:54] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6c3f5030[id=<null>,name=MADACRA,properties={},legacy=false] (/192.168.1.101:50689): Took too long to log in
+[18:11:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@6c3f5030[id=<null>,name=MADACRA,properties={},legacy=false] (/192.168.1.101:50689) lost connection: Took too long to log in
+[18:12:05] [User Authenticator #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@6c3f5030[id=<null>,name=MADACRA,properties={},legacy=false] (/192.168.1.101:50689): Authentication servers are down. Please try again later, sorry!
+[18:12:05] [User Authenticator #4/ERROR]: Couldn't verify username because servers are unavailable
+[18:12:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@436d0b3c[id=<null>,name=PantoneYellow,properties={},legacy=false] (/192.168.1.105:53011) lost connection: Disconnected
+[18:14:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@1f3ea2ec[id=<null>,name=MADACRA,properties={},legacy=false] (/192.168.1.101:50699) lost connection: Disconnected
+[18:14:36] [User Authenticator #5/INFO]: Disconnecting com.mojang.authlib.GameProfile@1f3ea2ec[id=<null>,name=MADACRA,properties={},legacy=false] (/192.168.1.101:50699): Authentication servers are down. Please try again later, sorry!
+[18:14:36] [User Authenticator #5/ERROR]: Couldn't verify username because servers are unavailable
+[18:15:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@623836f4[id=<null>,name=PantoneYellow,properties={},legacy=false] (/192.168.1.105:53015) lost connection: Disconnected
+[18:16:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@74904453[id=<null>,name=PantoneYellow,properties={},legacy=false] (/192.168.1.105:53017) lost connection: Disconnected
+[18:17:54] [Server thread/INFO]: Stopping server
+[18:17:54] [Server thread/INFO]: Saving players
+[18:17:54] [Server thread/INFO]: Saving worlds
+[18:17:54] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[18:17:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:17:54] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[18:17:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:17:54] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[18:17:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:17:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:17:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:17:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

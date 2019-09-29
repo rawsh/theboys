@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "5678a9bb-57e2-4608-9286-f62f6dc4b7e0",
+    "name": "MADACRA",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "7c1e4ac5-09f5-4764-b005-1b1e7d6c6826",
+    "name": "rawsh",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

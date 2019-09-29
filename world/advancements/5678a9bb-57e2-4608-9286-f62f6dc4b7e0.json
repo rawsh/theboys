@@ -1,0 +1,28 @@
+{
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2019-09-15 17:37:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2019-09-15 17:37:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2019-09-15 17:37:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2019-09-15 17:35:59 -0400",
+      "minecraft:wooded_hills": "2019-09-15 17:36:09 -0400"
+    },
+    "done": false
+  },
+  "DataVersion": 1976
+}
